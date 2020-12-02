@@ -1,5 +1,5 @@
 {
-  "name": "openapi-enforcer",
+  "name": "@avocode/openapi-enforcer",
   "version": "2.0.0-0",
   "description": "Library for validating, parsing, and formatting data against open api schemas.",
   "main": "index.js",
